@@ -131,7 +131,7 @@ Caso utilize a IDE VSCODE aplique as configurações no launch.json
 
 ### Banco de Dados
 
-Todas as informações de acesso aos bancos de dado utilizados no projeto encontram-se nos arquivos *application*.properties*, no diretório **properties**. 
+Todas as informações de acesso aos bancos de dado utilizados no projeto encontram-se nos arquivos **application.properties**, no diretório **resources**. 
 
 Projeto atualmente esta configurado com o banco de dados **H2**, seria um banco de dados Open Source que funciona em memória com um console acessível pelo browser dentro do contexto da aplicação. Como ele funciona em memória todo seu armazenamento é volátil, ou seja, a cada sobe e desce da aplicação ele será reconstruído.
 
